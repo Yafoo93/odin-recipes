@@ -1,1 +1,1 @@
-# odin-recipes
+This is Recipe website project for Odins pproject, i have learnt so much so far and i am willing to pour it all out here on this website design using html.
